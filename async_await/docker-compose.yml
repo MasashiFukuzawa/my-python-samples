@@ -1,8 +1,0 @@
-version: "3"
-services:
-  sample:
-    build: .
-    volumes:
-      - ".:/sample"
-    stdin_open: true
-    working_dir: "/sample"
