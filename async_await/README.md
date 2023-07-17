@@ -8,7 +8,7 @@ Parallel execution allows the process to be completed in 5s, whereas it would ta
 
 ```sh
 $ docker build . -t samples
-$ docker run -it --rm samples python samples/async_await/main.py
+$ docker run -it --rm samples python async_await/main.py
 start:  wait for 1s.
 start:  wait for 3s.
 start:  wait for 5s.

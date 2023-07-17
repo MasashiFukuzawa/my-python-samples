@@ -8,3 +8,4 @@ A collection of sample code implemented for learning Python.
 
 - [async/await](https://github.com/MasashiFukuzawa/my-python-samples/tree/master/async_await)
 - [OpenStruct](https://github.com/MasashiFukuzawa/my-python-samples/tree/master/open_struct)
+- [PyO3/maturin](https://github.com/MasashiFukuzawa/my-python-samples/tree/master/matruin)
